@@ -1,0 +1,113 @@
+a) What are the types of data available in IT?
+
+	Structured, Semi-structured, Unstructured
+
+b) What are the storage formats available in IT?
+
+	File, Database
+
+c) What are the storage areas available in IT?
+
+	On-Premise, Cloud
+
+What is On-Premise?
+
+	Within the organization / company / device / environment storage area
+
+What is Cloud?
+
+	Somebody else's storage or manage area
+
+d) What is OLTP?
+
+	Online Transaction Processing [for Day-Day Business Transactions]
+
+e) What is OLAP?
+
+	Online Analytical Processing [for Day-Day Analysis Operations]
+
+f) What is BI?
+
+	Business Intelligence [It is the process of converting normal data into decision making data]
+
+
+g) What is BI History or Evolution?
+
+	Legacy BI--> Middle Age BI--> Modern BI
+
+What is the input and output of BI?
+
+	Input is data, output is report or dashboard
+
+What is a Report?
+
+	
+	A graphical presentation of multiple visuals and insights.
+
+What is insight?
+
+	Detailed or Deep understanding of data
+
+What is a Dashboard?
+
+	A consolidated single view presentation of multiple reports and heterogenous components area
+
+Explain single line difference between Report and Dashboard?
+	Report contains detailed data, whereas dashboard contains high level data 
+
+h) What are the layers we usually find in DWH and BI Projects?
+
+	ETL, Data warehouse, Semantic, Reporting, Data Quality, Metadata 
+
+i) What is MSBI?
+
+Microsoft Business Intelligence([First BI Suite from MS with multiple tools [SSIS, SSAS, SSRS])
+
+MSBI Announcement year? History?
+2005, 2008, 2008 R2, 2012, 2014, 2016, 2017, 2019, 2022
+
+j) What is MS Power BI?
+
+	"Power BI is a low-code SSBI application which supports cloud and on-premise to generate reports and dashboards.
+
+Power BI Announcement year? and History?
+2013 July, We have monthly updates
+
+What is Azure?
+
+A vast cloud platform with various services [iaas, paas, saas etc.]
+Ex: Data Storage, VM, Networking, Data warehouses, Data Lakes, AI, BI, Data Science etc.
+
+Differences between Google Drive or OneDrive and Azure?
+
+Google Drive and OneDrive are Data Storage clouds, whereas Azure is multiple platform cloud.
+
+
+k) What is Azure BI?
+
+If we use BI components in the Azure, then it is Azure BI.
+Ex: ADF [Azure Data Factory], Synapse [Storage and Data Science etc.], Snow Flake [Warehouse], AAS [Azure Analysis Services] etc.
+
+Note: MSBI and Power BI are available with physical software, where Azure BI term is logical for its physical BI components.
+
+
+l) What is Power Platform?
+
+	A low-code platform with various applications [Power BI, Power Apps, Power Automate, Virtual Agent, Power Pages]
+
+m) What is Microsoft Fabric?
+	An AI Suite with Data Integration, Data Storage, Semantic Modeling and Reporting.
+	[Simply ADF, Synapse, Power BI]
+
+Which year Fabric announced?
+
+	2023 June
+
+n) Power BI Existence in Real-time projects?
+
+
+
+
+
+
+
