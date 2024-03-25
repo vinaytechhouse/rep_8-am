@@ -1,10 +1,12 @@
+This is a testing session.
+
 a) What are the types of data available in IT?
 
 	Structured, Semi-structured, Unstructured
 
 b) What are the storage formats available in IT?
 
-	File, Database
+	File, Database: two storages
 
 c) What are the storage areas available in IT?
 
